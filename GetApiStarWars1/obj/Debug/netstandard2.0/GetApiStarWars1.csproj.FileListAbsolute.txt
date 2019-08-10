@@ -1,0 +1,12 @@
+/Users/macbook/Projects/GetApiStarWars1/GetApiStarWars1/bin/Debug/netstandard2.0/GetApiStarWars1.deps.json
+/Users/macbook/Projects/GetApiStarWars1/GetApiStarWars1/bin/Debug/netstandard2.0/GetApiStarWars1.dll
+/Users/macbook/Projects/GetApiStarWars1/GetApiStarWars1/bin/Debug/netstandard2.0/GetApiStarWars1.pdb
+/Users/macbook/Projects/GetApiStarWars1/GetApiStarWars1/obj/Debug/netstandard2.0/GetApiStarWars1.csprojAssemblyReference.cache
+/Users/macbook/Projects/GetApiStarWars1/GetApiStarWars1/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/macbook/Projects/GetApiStarWars1/GetApiStarWars1/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/macbook/Projects/GetApiStarWars1/GetApiStarWars1/obj/Debug/netstandard2.0/GetApiStarWars1.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/GetApiStarWars1/GetApiStarWars1/obj/Debug/netstandard2.0/GetApiStarWars1.AssemblyInfoInputs.cache
+/Users/macbook/Projects/GetApiStarWars1/GetApiStarWars1/obj/Debug/netstandard2.0/GetApiStarWars1.AssemblyInfo.cs
+/Users/macbook/Projects/GetApiStarWars1/GetApiStarWars1/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/macbook/Projects/GetApiStarWars1/GetApiStarWars1/obj/Debug/netstandard2.0/GetApiStarWars1.dll
+/Users/macbook/Projects/GetApiStarWars1/GetApiStarWars1/obj/Debug/netstandard2.0/GetApiStarWars1.pdb

@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{1F1B7F1B-B638-4690-B4F4-1BBF25AC998C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GetApiStarWars1/MainPage.xaml.cs">
+    <Files>
+      <File FileName="GetApiStarWars1/MainPage.xaml.cs" Line="44" Column="24" />
+      <File FileName="GetApiStarWars1/MainPage.xaml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GetApiStarWars1" expanded="True">
+            <Node name="GetApiStarWars1" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GetApiStarWars1.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2693A7CE-B4BB-4EDE-86E7-4EEEEC5812CB" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.GetApiStarWars1.Android PreferredExecutionTarget="Android.Pixel_3_XL_API_28" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
